@@ -1,0 +1,15 @@
+.Card {
+  border: solid black;
+  padding: 0px;
+  width: 300px;
+  height: 250px;
+  border-radius: 5%;
+  margin: 0.2em;
+  text-align: center;
+}
+
+.Main-id {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
